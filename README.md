@@ -20,7 +20,7 @@ A comprehensive summary of this essential guide that bridges the gap between the
 ## 🎯 Purpose
 
 This repository aims to:
-- Share knowledge about LLMs and their operational aspects
+- Share expert recommendations for LLM-related books
 - Provide concise, structured summaries of key books in the field
 - Help others learn about LLM deployment and management
 - Create a reference for practical LLM implementation strategies
@@ -39,9 +39,9 @@ While this is a personal collection of book summaries, I welcome:
 - Questions about specific topics
 - Recommendations for future book summaries
 
-## 👨‍🔬 About the Author
+## 👨‍🔬 About the Curator
 
-**Dr. Majid Memari** is an accomplished **AI scientist, educator, and researcher** with extensive expertise in:
+**Dr. Majid Memari** is an accomplished **AI scientist, educator, and researcher** who curates and recommends these resources based on his extensive expertise in:
 
 - **Specializations**: 
   - Generative AI
@@ -65,7 +65,7 @@ While this is a personal collection of book summaries, I welcome:
   - AI committee memberships
   - AI externship bridging academic and industrial applications
 
-Dr. Memari's work continues to shape the future of AI education, research, and real-world deployment, making complex AI concepts accessible to both academic and industry audiences.
+Dr. Memari's expert recommendations aim to help practitioners and researchers navigate the complex landscape of LLM technologies and implementations.
 
 ## 📜 License
 
@@ -79,4 +79,4 @@ Feel free to open an issue for discussions or questions about any of the summari
 
 ---
 
-⭐ If you find these summaries helpful, please consider starring the repository! 
+⭐ If you find these expert recommendations helpful, please consider starring the repository! 
