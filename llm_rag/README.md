@@ -24,7 +24,15 @@ pip install -r requirements.txt
 ```
 
 3. Set up your OpenAI API key:
-   - Update the `.env` file with your OpenAI API key
+```bash
+# Copy the example .env file
+cp .env.example .env
+
+# Edit the .env file with your API key
+nano .env  # or use any text editor
+```
+
+> **⚠️ Security Note**: Never commit your .env file with real API keys to GitHub. The repository includes a .gitignore file to prevent this.
 
 ## 🚀 Usage
 
@@ -73,7 +81,8 @@ llm_rag/
 │   ├── ingest.py        # Data ingestion script
 │   ├── query.py         # Command-line query interface
 │   └── app.py           # Streamlit web application
-├── .env                 # Environment variables
+├── .env.example         # Example environment variables template
+├── .env                 # Your actual environment variables (git-ignored)
 └── requirements.txt     # Python dependencies
 ```
 
