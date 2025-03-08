@@ -17,6 +17,22 @@ A comprehensive summary of this essential guide that bridges the gap between the
 
 ➡️ [Read the full summary](LLMOps.md)
 
+## 🤖 Interactive RAG Knowledge Base
+
+This repository includes a **Retrieval-Augmented Generation (RAG)** system that allows you to interactively query information about the books:
+
+- **Ask Questions**: Query specific concepts, implementations, or details from the books
+- **Get AI-Powered Answers**: Receive responses based on the actual content of book summaries
+- **Explore Book Metadata**: Access structured information about each book
+
+### Using the RAG System
+
+1. Navigate to the `llm_rag` directory
+2. Follow the setup instructions in [llm_rag/README.md](llm_rag/README.md)
+3. Run the web interface or use the command-line tool to query book information
+
+![RAG System Screenshot](https://via.placeholder.com/800x400?text=LLM+Book+Knowledge+Base)
+
 ## 🎯 Purpose
 
 This repository aims to:
@@ -30,6 +46,7 @@ This repository aims to:
 - Each book summary is contained in its own markdown file
 - Summaries include key concepts, practical insights, and main takeaways
 - Additional resources and references are provided where applicable
+- The `llm_rag` directory contains the interactive knowledge base system
 
 ## 🤝 Contributing
 
